@@ -4,4 +4,4 @@
 - :pencil2: [Vim](https://github.com/walkersumida/vimrc) / [VSCode Vim](https://github.com/walkersumida/vscoderc)
 - 📫 How to reach me: [@walkersumida](https://twitter.com/walkersumida)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=walkersumida&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=walkersumida&count_private=true&show_icons=true&theme=dark">](https://github.com/anuraghazra/github-readme-stats)
