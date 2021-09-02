@@ -4,5 +4,6 @@
 
 - :heart: I love Programming and Shortcuts!
 - :pencil2: [Vim](https://github.com/walkersumida/vimrc) / [VSCode Vim](https://github.com/walkersumida/vscoderc) / [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
+- :gem: [Ruby gems](https://github.com/walkersumida?tab=repositories&q=gem&type=&language=&sort=)
 - :robot: [Alfred Workflows](https://github.com/walkersumida?tab=repositories&q=alfredworkflow&type=&language=&sort=)
 - :mailbox: How to reach me: [@walkersumida](https://twitter.com/walkersumida)
