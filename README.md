@@ -4,8 +4,8 @@
 
 - :heart: I love programming and keyboard shortcuts!
 - :pencil2: [Neovim](https://github.com/walkersumida/nvim) / [Vim](https://github.com/walkersumida/vimrc) / [VSCode Vim](https://github.com/walkersumida/vscoderc)
+- ⚡ [Neovim plugins](https://github.com/walkersumida?tab=repositories&q=nvim&type=&language=lua&sort=)
 - :gem: [Ruby gems](https://github.com/walkersumida?tab=repositories&q=gem&type=&language=&sort=)
 - :hamster: [Go tools](https://github.com/walkersumida?tab=repositories&q=tools&type=&language=go&sort=)
-- ⚡ [Neovim plugins](https://github.com/walkersumida?tab=repositories&q=nvim&type=&language=lua&sort=)
 - :robot: [Alfred Workflows](https://github.com/walkersumida?tab=repositories&q=alfredworkflow&type=&language=&sort=)
 - :mailbox: How to reach me: [@walkersumida](https://twitter.com/walkersumida)
